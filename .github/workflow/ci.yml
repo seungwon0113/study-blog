@@ -11,8 +11,8 @@ jobs:
       DB_HOST: 127.0.0.1
       DB_PORT: 3306
       DB_USER: root
-      DB_PASSWORD: seungwon0113
-      DB_DATABASE: mystudy
+      DB_PASSWORD: 1234
+      DB_DATABASE: oz_django
     steps:
       - name: Check out the codes
         uses: actions/checkout@v2
